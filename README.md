@@ -81,8 +81,8 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Airbnb_Project.git
-    cd Airbnb_Project
+    git clone [https://github.com/Aman-404-404/SAIR.git]
+    cd SAIR
     ```
 
 2.  **Install Dependencies:**
@@ -132,9 +132,9 @@ Encountered challenges, especially with data handling, but implemented efficient
 
 ## Author
 
-Mohan Singh \
-Email: duhanmohan9@gmail.com \
-LinkedIn : <a href="https://www.linkedin.com/in/duhanmohan/">duhanmohan</a>
+Aman Raj Singh \
+Email: rajsinghaman72@gmail.com \
+LinkedIn : <a href=""</a>
 ---
 
 Live Website Link
